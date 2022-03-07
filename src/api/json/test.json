@@ -1,0 +1,9 @@
+{
+    "message": "ok",
+    "userInfo": {
+        "id": "100001",
+        "userName" : "user1",
+        "avatarUrl" : "assets/1.png"
+    },
+    "token": "B1xNGXJJ9t"
+}
